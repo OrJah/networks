@@ -37,7 +37,7 @@
     "exploreTxUrl": "https://dymscan.com/rollappx/transaction/",
     "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
     "ibc": { "timeout": 172800000, "channel": "channel-0", "hubChannel": "channel-815" },
-    "logo": "/static/media/rollapp-logo.c00cae20415284bc2c2e.png",
+    "logo": "/logos/rollapp-logo.png",
     "type": "RollApp",
     "website": "https://dymension.xyz/",
     "description": "RollApp X is an independent blockchain with it own dedicated Sequencer that allows users to stake, transfer, and more."
@@ -60,7 +60,7 @@
     "da": "Celestia",
     "gasPriceSteps": { "low": 0, "average": 0, "high": 0 },
     "ibc": { "timeout": 172800000, "channel": "channel-0", "hubChannel": "channel-706" },
-    "logo": "/static/media/rollapp-evm-logo.081d8bb73e422ec38f2f.png",
+    "logo": "/logos/rollapp-evm-logo.png",
     "type": "RollApp",
     "website": "https://dymension.xyz/",
     "description": "GinTonic is a low-latent blockchain that enables developers to deploy smart contracts and users to play with their favorite Ethereum application in an ultra fast environment."
